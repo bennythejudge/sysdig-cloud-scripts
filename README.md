@@ -1,4 +1,7 @@
 # sysdig-cloud-scripts
+
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/sysdig-cloud-scripts.svg)](https://www.guardrails.io)
+
 This repository holds various scripts and templates that may be helpful for (among other things):
 
 - Deploying the Sysdig Cloud agent in various platforms: [/agent_deploy/](https://github.com/draios/sysdig-cloud-scripts/tree/master/agent_deploy)
